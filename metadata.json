@@ -1,0 +1,6 @@
+{
+  "name": "Logo Generator",
+  "description": "Generate custom logos, monograms, and brand lettermarks with letter selection, color schemes, vector styles, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
