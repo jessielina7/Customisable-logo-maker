@@ -1,4 +1,4 @@
-# 🎨 Customizable Logo Generator
+# 🎨 AI-Powered Custom Logo Generator
 
 A customizable Android application that generates unique text-based logos from user input. Users can enter a name, select the number of letters to include, and instantly generate a personalized logo based on their preferences.
 
